@@ -70,7 +70,7 @@ export const projects = [
     description:
       "Aplikasi mobile pencatatan siklus menstruasi & masa subur dengan fitur pengingat ibadah islami (salat & puasa). Menggunakan penyimpanan lokal offline-first (SQLite) untuk menjaga privasi data pengguna, serta menyediakan edukasi kesehatan reproduksi.",
     tech: ["Java", "Android Studio", "SQLite"],
-    github: "https://github.com/Yesy-ana/women-calendar",
+    github: "https://github.com/Yesy-ana/reminderperiodhaid.git",
     highlight: "Mobile",
   },
   {
