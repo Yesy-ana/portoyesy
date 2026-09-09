@@ -61,7 +61,7 @@ export const projects = [
     description:
       "Aplikasi Android edukatif yang menerjemahkan huruf Hijaiah ke bahasa isyarat visual, ditujukan untuk Penyandang Disabilitas Sensorik Rungu Wicara (PDSRW). Dilengkapi animasi isyarat, drag-and-drop matching game, dan kuis evaluasi interaktif.",
     tech: ["Java", "Android Studio", "XML"],
-    github: "https://github.com/Yesy-ana/hijaiah-sign-language-translator",
+    github: "https://github.com/Yesy-ana/hijaiah-sign-language-translator.git",
     highlight: "Accessibility",
   },
   {
