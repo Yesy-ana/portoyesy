@@ -74,6 +74,15 @@ export const projects = [
     highlight: "Mobile",
   },
   {
+    title: "Aplikasi Kalori Traker",
+    subtitle: "Memonitoring Kalori",
+    description:
+      "Aplikasi mobile yang berfungsi untuk mentrcker kalori yang telah masuk ke tubuh. Menggunakan penyimpanan lokal offline-first (SQLite) untuk menjaga privasi data pengguna, serta menyediakan edukasi kesehatan reproduksi.",
+    tech: ["Java", "Android Studio", "SQLite"],
+    github: "https://github.com/Yesy-ana/calorietracker.git",
+    highlight: "Mobile",
+  },
+  {
     title: "Sistem Inventaris & Peminjaman Barang MTA TV",
     subtitle: "Digitalisasi alur peminjaman peralatan broadcast",
     description:
