@@ -62,7 +62,7 @@ export const projects = [
       "Aplikasi Android edukatif yang menerjemahkan huruf Hijaiah ke bahasa isyarat visual, ditujukan untuk Penyandang Disabilitas Sensorik Rungu Wicara (PDSRW). Dilengkapi animasi isyarat, drag-and-drop matching game, dan kuis evaluasi interaktif.",
     tech: ["Java", "Android Studio", "XML"],
     github: "https://github.com/Yesy-ana/hijaiah-sign-language-translator.git",
-    highlight: "Accessibility",
+    highlight: "Mobile",
   },
   {
     title: "Aplikasi Kalender Wanita",
@@ -89,7 +89,7 @@ export const projects = [
       "Aplikasi web full-stack untuk manajemen inventaris dan peminjaman peralatan operasional broadcast MTA TV. Fitur meliputi database barang, form request peminjaman, role access, dan tracking status real-time.",
     tech: ["Laravel", "PHP", "MySQL", "JavaScript", "HTML5", "CSS3"],
     github: "https://github.com/Yesy-ana",
-    highlight: "Full-Stack",
+    highlight: "Website",
   },
 ];
 
